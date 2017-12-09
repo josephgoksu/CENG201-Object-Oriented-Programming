@@ -3,18 +3,18 @@
 [Yıldırım Beyazıt University](http://www.ybu.edu.tr/) CENG201 Object Oriented Programming JAVA Lab Notes 2017
 
 
-![alt text](http://euravon.ybu.edu.tr/wp-content/uploads/2016/10/YBU_logo-300x300.jpg "YBU Computer Engineering")
+![](./ybu-logo.jpeg")
 
 These labs are available right now. I'll keep update every week
 
-1. Lab - 1
-2. Lab - 2
-3. Lab - 3
-4. Lab - 4
-5. Lab - 5
-6. Lab - 6
-7. Lab - 7
-8. Lab - 8
+1. [Lab - 1](https://github.com/y7usuf/CENG201-Object-Oriented-Programming/tree/master/lab1)
+2. [Lab - 2](https://github.com/y7usuf/CENG201-Object-Oriented-Programming/tree/master/lab2)
+3. [Lab - 3](https://github.com/y7usuf/CENG201-Object-Oriented-Programming/tree/master/lab3)
+4. [Lab - 4](https://github.com/y7usuf/CENG201-Object-Oriented-Programming/tree/master/lab4)
+5. [Lab - 5](https://github.com/y7usuf/CENG201-Object-Oriented-Programming/tree/master/lab5)
+6. [Lab - 6](https://github.com/y7usuf/CENG201-Object-Oriented-Programming/tree/master/lab6)
+7. [Lab - 7](https://github.com/y7usuf/CENG201-Object-Oriented-Programming/tree/master/lab7)
+8. [Lab - 8](https://github.com/y7usuf/CENG201-Object-Oriented-Programming/tree/master/lab8)
 
 
 ### Development
