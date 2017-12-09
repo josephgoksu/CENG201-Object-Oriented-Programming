@@ -3,7 +3,7 @@
 [Yıldırım Beyazıt University](http://www.ybu.edu.tr/) CENG201 Object Oriented Programming JAVA Lab Notes 2017
 
 
-![](./ybu-logo.jpeg")
+![](https://raw.githubusercontent.com/y7usuf/CENG201-Object-Oriented-Programming/master/ybu-logo.jpeg)
 
 These labs are available right now. I'll keep update every week
 
